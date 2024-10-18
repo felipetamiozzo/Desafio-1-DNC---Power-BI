@@ -1,6 +1,5 @@
 
-
-# Desafio de Power BI: Previsão de Faturamento para E-commerce
+#  Previsão de Faturamento para E-commerce com Power BI
 
 Este repositório contém o projeto de **previsão de faturamento** e análise de dados de um e-commerce, desenvolvido com Power BI. O desafio consiste em utilizar dados reais de vendas e clientes para criar um **painel gerencial** que permita prever os resultados de faturamento e gerar recomendações estratégicas para melhorar o desempenho da empresa.
 
